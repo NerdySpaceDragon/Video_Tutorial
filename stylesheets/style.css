@@ -23,6 +23,7 @@ body{
 }
 
 .image img{
+    width: 250px;
     max-width: 250px%;
     height: auto;
     border: 1px solid black;
